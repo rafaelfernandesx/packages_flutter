@@ -1,3 +1,7 @@
+## 2.19.1
+
+* Adds the FlutterFramework dependency required by Flutter Swift Package Manager integration.
+
 ## 2.19.0
 
 * Adds support for tapping points of interest on the map.
